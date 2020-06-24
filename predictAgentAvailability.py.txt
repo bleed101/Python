@@ -1,4 +1,4 @@
-#©Divyanshu Dubey Python3
+#©Divyanshu Dubey|Python3
 #Basicaly I have used first come first serve(FCFS) scheduling algorithms because
 #any real life request is mostly serve on this basis.
 #who has the smallest start time enters the ready queue first and
